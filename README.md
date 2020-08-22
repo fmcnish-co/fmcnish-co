@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-Hi! My name is Fredy M. and this is my Github site. In this, I will publishing some open projects that I'll be developing as well some info and ideas to share. Be free to contactme if you need something. I'm also open to colaborate and learn about other projects.
+Hi! My name is Fredy M. and this is my Github site. In this, I will publishing some open projects that I'll be developing as well some info and ideas to share. Be free to contact me if you need something. I'm also open to colaborate and learn about other projects.
 
 My preferences are: DataScience, Artificial Intelligence, Arduino or NodeMCU, Python, Java. 
 
