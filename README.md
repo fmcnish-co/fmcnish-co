@@ -9,7 +9,7 @@ My preferences are: DataScience, Artificial Intelligence, Arduino or NodeMCU, Py
 The projects published here are: 
 - **AirQA:** is a Javascript frontend for an Air Quality community project I was colaborating. The main idea was to show the visualization of the data. In this, I use **leaflet** for maps and **D3** for visualization.
 - **Roarse:** is an Arduino project about a line follower robot. The code works pretty well but in need some improvements. This was developed for a Science Fair.
-- **ML:** here are my **Jupyter Notebook** for a meetup I hosted. I was showing the translation between a classification model from KNime to Python (the sample excercise was the Titanic dataset for *Survival prediction*.  
+- **ML:** here are my **Jupyter Notebook** for a meetup I hosted. I was showing the translation between a classification model from KNime to Python (the sample excercise was the Titanic dataset for *Survival prediction*).   
 
 ## Summing up: ##
 
